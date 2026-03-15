@@ -1,0 +1,17 @@
+﻿# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Test reports
+Reports/
+
+# Logs
+*.log
+
+# Temporary files
+*.cache
